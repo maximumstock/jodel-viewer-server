@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-koajs-template",
+  "name": "jode-viewer-server",
   "version": "1.0.0",
-  "description": "A simple node.js template for future projects using koa.js",
+  "description": "",
   "main": "server.js",
   "directories": {
     "test": "test"
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maximumstock/nodejs-template.git"
+    "url": "git+https://github.com/maximumstock/jodel-viewer-server.git"
   },
   "author": "Maximilian Stock",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maximumstock/nodejs-template/issues"
+    "url": "https://github.com/maximumstock/jodel-viewer-server/issues"
   },
-  "homepage": "https://github.com/maximumstock/nodejs-template#readme",
+  "homepage": "https://github.com/maximumstock/jodel-viewer-server#readme",
   "devDependencies": {
     "chai": "^3.4.1",
     "co-mocha": "^1.1.2",
